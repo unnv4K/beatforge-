@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BeatForge" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF17181A</item>
+        <item name="android:statusBarColor">#FF17181A</item>
+        <item name="android:navigationBarColor">#FF17181A</item>
+    </style>
+</resources>
